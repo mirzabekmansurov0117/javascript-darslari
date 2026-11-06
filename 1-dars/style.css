@@ -1,0 +1,16 @@
+.sarlavha {
+    color: blue;
+    /* matn rangi */
+    font-size: 32px;
+    /* shrift o'lchami */
+}
+
+button {
+    background: green;
+    /* fon rangi */
+    color: white;
+    padding: 10px 20px;
+    /* ichki bo'sh joy */
+    border-radius: 8px;
+    /* yumaloq burchak */;
+}
